@@ -11,6 +11,12 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=4343e9&labelColor=e2792d" alt="License">
 
+<h1> Desktop </h1>
+Veja o arquivo [PREVIEW](.github/desktop-preview.png) para mais detalhes.
+
+<h1> Mobile </h1>
+Veja o arquivo [PREVIEW](.github/mobile-preview.png) para mais detalhes.
+
 ## 🚀 Tecnologias
 
 Esse projeto será desenvolvido com as seguintes tecnologias:
